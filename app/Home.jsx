@@ -6,7 +6,7 @@ const Home = () => {
       <div className="flex items-center mt-6 justify-center flex-col">
           <div className="mt-12 flex items-center justify-center">
             <h1 className="font-sans font-bold text-6xl bg-gradient-to-br  from-cyan-200 to-blue-600 bg-clip-text text-transparent ">
-              Hi, I'm Tanishq
+              Hi, I&apos;m Tanishq
             </h1>
             <picture>
               <source
@@ -22,14 +22,14 @@ const Home = () => {
             </picture>
           </div>
           <p className="mt-4 font-sfmedium text-xl">
-            I'm a full-stack developer and a tech enthusiast.
+            I&apos;m a full-stack developer and a tech enthusiast.
           </p>
         </div>
         <div className="mt-12 ">
           <div className="w-full flex flex-col-reverse md:flex-row  justify-between gap-12">
             <div className="w-full font-sfregular">
               <p>
-              Skilled in a fair share of Web Technologies, sipping tea with a side of silence. My interests span across various domains, from Computer Science and Mathematics to Philosophy. Spot me on campus, lost in my own world with earphones firmly plugged in.🎧 Currently, I'm delving into the realms of Data Science and ML-related technologies.
+              Skilled in a fair share of Web Technologies, sipping tea with a side of silence. My interests span across various domains, from Computer Science and Mathematics to Philosophy. Spot me on campus, lost in my own world with earphones firmly plugged in.🎧 Currently, I&apos;m delving into the realms of Data Science and ML-related technologies.
               </p>
               <div className="flex mt-6 items-center justify-between">
                 <a href='/cv.pdf'>

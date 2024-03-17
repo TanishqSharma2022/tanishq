@@ -9,7 +9,7 @@ const About = () => {
         <h1 className=' text-3xl mt-8 font-sfsemibold bg-gradient-to-r from-sky-500  text-transparent bg-clip-text'>What am I here for?</h1>
      <div className='w-full h-[1px] bg-gradient-to-r from-sky-500'></div>
         <p className='font-sfregular mt-4'>
-          Is there something that I am here for or is <span className='italic'>`Life is just random.`</span>. I find myself pondering the meaning of my presence in this random, fast-paced world. While others engage in mindless chatter, I am drawn to the quiet depths of the universe. My interests lie in the realms of Computer Science, Mathematics, and Philosophy. As a web developer and problem-solving enthusiast, I immerse myself in these subjects. I prefer to avoid the trivial gossip of people and tend to be quiet most of the time. Music is my solace, and you'll often find me lost in its melodies.
+          Is there something that I am here for or is <span className='italic'>`Life is just random.`</span>. I find myself pondering the meaning of my presence in this random, fast-paced world. While others engage in mindless chatter, I am drawn to the quiet depths of the universe. My interests lie in the realms of Computer Science, Mathematics, and Philosophy. As a web developer and problem-solving enthusiast, I immerse myself in these subjects. I prefer to avoid the trivial gossip of people and tend to be quiet most of the time. Music is my solace, and you&apos;ll often find me lost in its melodies.
         </p>
         <h1 className=' text-3xl mt-8 font-sfsemibold bg-gradient-to-r from-sky-500  text-transparent bg-clip-text'>My Arsenal🛡️</h1>
      <div className='w-full h-[1px] bg-gradient-to-r from-sky-500'></div>
