@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="relative group cursor-pointer">
             <div className="absolute -inset-1 bg-gradient-to-br from-cyan-200 to-blue-600 rounded-xl   group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative  bg-white ring-1 shadow-lg shadow-blue-500 ring-gray-900/5 rounded-xl leading-none flex items-top justify-start space-x-6">
-              <Link href={'/'}><img className="h-[60px] p-2 " src="/memo.png" /></Link>
+              <Link href={'/'}><img className="h-[40px] md:h-[60px] p-2 " src="/memo.png" /></Link>
             </div>
           </div>
           <ul className="flex items-center font-sfregular justify-center gap-2">
